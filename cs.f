@@ -1,7 +1,7 @@
 c
 ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 c
-c     Covid-90 epidemic simulator, april 25 2020
+c     COVID-19 epidemic simulator, april 25 2020
 c     S-E1-E2-E3-E4-I-W-B-R where E2,E3 and I are infecterious, 
 c                           and B=ICU beds of average of 12 days.
 c
