@@ -4,17 +4,17 @@ Simulation code for superspreading of SARS-CoV-2, written in FORTRAN.
 Instructions:
 
 The program runs with parameters hardcoded in the source code,
-the parameters can be found under the comment which begins with
+the parameters can be found under the comment which begins with\
 c.....Normal parameters
 
-Parameter combination for non-superspreader simulation:
+Parameter combination for non-superspreader simulation:\
 Nsupermax=1\
 superfreq=0\
 beta0=1.1\
 helpfac=1.
 
 
-Parameter combination for superspreader simulation:
+Parameter combination for superspreader simulation:\
 beta0=1\
 Nsuperlim=5000\
 Superpow=0.9    !(dispersion=0.1)\
