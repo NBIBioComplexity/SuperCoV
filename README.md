@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/327916751.svg)](https://zenodo.org/badge/latestdoi/327916751)
+
 # SuperCoV
 Simulation code for superspreading of SARS-CoV-2, written in FORTRAN.
 
